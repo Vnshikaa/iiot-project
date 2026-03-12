@@ -61,12 +61,19 @@ MSE ≈ 9.9e10
 📌 Project Workflow:
 
 Import libraries
+
 Load dataset
+
 Select features (sqft_living)
+
 Split data into training and testing sets
+
 Train Linear Regression model
+
 Predict house prices
+
 Visualize regression line
+
 Evaluate model using MSE
 
 📷 Output:
@@ -82,5 +89,7 @@ This demonstrates how house prices change with increasing living area.
 🚀 Future Improvements:
 
 Use multiple features such as bedrooms, bathrooms, and location
+
 Try advanced models like Random Forest or Gradient Boosting 
+
 Improve prediction accuracy with feature engineering
